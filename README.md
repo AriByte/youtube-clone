@@ -5,7 +5,7 @@ The project recreates the core visual layout of YouTube, including the navigatio
 
 ## 📸 Preview
 
-![Visit YouTube Clone](youtube-clone-wine-omega.vercel.app)
+[🌐 Visit YouTube Clone](https://youtube-clone-wine-omega.vercel.app)
 
 ## 🚀 Features
 
